@@ -37,7 +37,7 @@ public class Desafio {
         }
 
         
-        System.out.println("Os dois maiores números digitados foram: " + maior1 + " e " + maior2);
+        System.out.println("Os maiores digitos foram: " + maior1 + " e " + maior2);
 
         
         scanner.close();
